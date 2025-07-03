@@ -1,0 +1,20 @@
+# Core dependencies for a2aTravelChatService
+fastapi
+uvicorn
+httpx
+requests
+python-dotenv
+click
+pydantic
+langchain-core
+langchain-google-genai
+langchain-openai
+langgraph
+# a2a protocol and server/client
+a2a-sdk
+a2a-protocol
+# For Google/OpenAI LLMs (optional, depending on your config)
+openai
+google-generativeai
+# For MCP servers (FastMCP)
+fastmcp
